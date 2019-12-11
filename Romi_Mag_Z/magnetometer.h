@@ -3,7 +3,7 @@
 
 #include <LIS3MDL.h>
 #define BUZZER_PIN      6   // To make the annoying beeping
-const int NUM_CALIBRATIONS_MAG = 200;
+const int NUM_CALIBRATIONS_MAG = 300;
 
 class Magnetometer
 {
